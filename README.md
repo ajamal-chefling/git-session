@@ -6,3 +6,4 @@
 
 - [Github Contributions](https://chefling.atlassian.net/wiki/spaces/EN/pages/497713250/GitHub+Contributions)
 - [Commit Message Pattern](http://udacity.github.io/git-styleguide/)
+- [Git Tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
