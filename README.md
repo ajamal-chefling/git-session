@@ -8,3 +8,5 @@
 - [Commit Message Pattern](http://udacity.github.io/git-styleguide/)
 - [Git Tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [gitignore Generator](https://www.toptal.com/developers/gitignore)
+- [Merge vs Rebase](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)
+- [Merge Conflicts](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
