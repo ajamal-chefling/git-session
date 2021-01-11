@@ -1,1 +1,2 @@
 conflict line
+new content append
